@@ -1,0 +1,10 @@
+[CSceneManager.cpp] Run() - SceneManager not initialized. You have to call CSceneManager::Initialize() first.
+[CSceneManager.cpp] Run() - No scenen activated. You have to call CSceneManager::ActivateScene() first.
+[CRenderer.cpp] InitializeShader() - Could not compile vertex shader.
+[CRenderer.cpp] InitializeShader() - Could not compile pixel shader.
+[CRenderer.cpp] InitializeShader() - Could not create vertex buffer.
+[CRenderer.cpp] InitializeShader() - Could not create constant buffer for the vertex shader.
+[CRenderer.cpp] InitializeShader() - Could not create constant buffer for the pixel shader.
+[CRenderer.cpp] InitializeDirectX() - Could not create device and swap chain.
+[CRenderer.cpp] InitializeDirectX() - Could not create render target view.
+[CRenderer.cpp] InitializeDirectX() - Could not create depth stencil view.
